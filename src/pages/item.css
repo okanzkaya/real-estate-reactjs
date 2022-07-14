@@ -1,0 +1,59 @@
+.item-body {
+  text-align: center;
+}
+
+.item-body h1 {
+  font-size: 1.5em;
+  text-align: left;
+  padding: 0.5em;
+}
+
+.item-body h2 {
+  font-size: 0.9em;
+  padding: 1em;
+  text-align: left;
+}
+
+.house-info {
+  display: flex;
+  margin-top: 1.5em;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 1em;
+  border-bottom: 0.1em solid black;
+}
+
+.item-body img {
+  padding-top: 1em;
+  width: 100%;
+}
+
+.house-info p {
+  font-size: 1.5em;
+}
+
+#add-favorites,
+#apply {
+  background-color: #ff4370;
+  padding: 0.5em;
+  color: white;
+}
+
+#apply {
+  background-color: #7b54e9;
+}
+
+.info {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  color: #5200ff;
+  align-items: center;
+  border-bottom: 0.1em solid black;
+}
+
+.info img {
+  width: 1em;
+  padding-bottom: 0.8em;
+  padding-left: 0.2em;
+}

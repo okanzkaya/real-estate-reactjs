@@ -1,0 +1,92 @@
+.upper-body h1 {
+  position: absolute;
+  top: 8.5em;
+  left: 0.2em;
+  color: white;
+  font-size: 1.8em;
+}
+
+.upper-body img {
+  width: 100%;
+}
+
+.search-section h1 {
+  padding-left: 2em;
+  padding-top: 0.5em;
+  font-size: 1.5em;
+}
+
+.search-section ul {
+  margin-left: 2em;
+}
+
+.search-section ul > li {
+  display: inline-block;
+  margin: 1em;
+  font-size: 0.9em;
+}
+
+#selected {
+  box-sizing: content-box;
+  background-color: #b2baff;
+  border: 0.4em solid #b2baff;
+}
+
+.search {
+  display: flex;
+  width: 80%;
+  height: 2em;
+  background-color: #f3e2e2;
+  margin: auto;
+  border-radius: 2em;
+  align-items: center;
+}
+
+#magnifying-glass {
+  padding-left: 0.5em;
+}
+
+.search input {
+  width: 80%;
+  padding-left: 0.5em;
+  border: none;
+  background-color: #f3e2e2;
+}
+
+.search input:focus {
+  outline: none;
+}
+
+.body-items {
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.body-item {
+  padding-top: 2em;
+  box-shadow: 0 0.2em 0.5em gray;
+  width: 100%;
+}
+
+.body-item h1 {
+  font-size: 1.5em;
+  padding-top: 0.5em;
+}
+
+.body-item h2 {
+  font-size: 1em;
+  padding-top: 1.2em;
+  padding-bottom: 1em;
+  font-weight: 500;
+}
+
+.body-item button {
+  background-color: white;
+  border: 0.1em #fa00ff solid;
+  padding: 0.4em 0.8em;
+  color: #fa00ff;
+  margin-bottom: 1.2em;
+  font-size: 1em;
+}

@@ -1,0 +1,31 @@
+footer {
+  margin-top: 1em;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  text-align: center;
+}
+
+footer ul {
+  list-style: none;
+  padding: 1em;
+}
+
+footer ul li {
+  padding: 0.2em;
+}
+
+footer ul li a {
+  color: black;
+}
+
+footer ul li a:hover {
+  color: blueviolet;
+}
+
+.footer-item h1 {
+  font-size: 1.5em;
+}
+
+#copyright-text {
+  text-align: center;
+}
