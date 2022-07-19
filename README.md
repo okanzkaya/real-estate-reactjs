@@ -1,5 +1,6 @@
 ## This project has been developed with ReactJS.
 -The mobile design has been completed.
+
 -Vanilla CSS has been used for styling.
 ## Features
 - Website contains 3 webpages, with a side-bar.
