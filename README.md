@@ -3,7 +3,7 @@
 
 -Vanilla CSS has been used for styling.
 ## Features
-- Website contains 3 webpages, with a side-bar.
+- Website contains 3 different webpages, with a side-bar.
 - SVG files have been used for scalable and compatible UI experience.
 - You can sort items in order.
 - state has been used as a pseudo database, you can apply the same process with an SQL or NoSQL database.
